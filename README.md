@@ -10,7 +10,7 @@ implicit_block result: true
 
 ### RubyMotion 2.17
 ```shell
-$ rake
+$ rake spec
 
 explicit_block result: true
 implicit_block result: false
